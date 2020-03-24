@@ -1,0 +1,41 @@
+Country,Continent,2013,2014,2015,2016,2017,ICU-CCB beds per 100000 inhabitants,Ventilators
+Japan,Asia,13.3,13.21,13.17,13.11,13.05,7.3,Unknown
+South Korea,Asia,10.92,11.59,11.61,11.98,12.27,10.6,Unknown
+Russia,Europe,9.07,8.81,8.35,8.16,8.05,8.3,Unknown
+Germany,Europe,8.28,8.23,8.13,8.06,8,29.2,25000
+Austria,Europe,7.64,7.58,7.54,7.42,7.37,21.8,Unknown
+Hungary,Europe,7.04,6.98,6.99,7,7.02,13.8,Unknown
+Czech Republic,Europe,6.7,6.68,6.67,6.66,6.63,11.6,Unknown
+Poland,Europe,6.61,6.63,6.63,6.64,6.62,6.9,Unknown
+Lithuania,Europe,7.28,7.22,6.97,6.69,6.56,15.5,Unknown
+France,Europe,6.28,6.2,6.13,6.06,5.98,11.6,Unknown
+Slovakia,Europe,5.8,5.79,5.75,5.78,5.82,9.2,Unknown
+Belgium,Europe,5.93,5.85,5.83,5.76,5.76,15.9,Unknown
+Latvia,Europe,5.8,5.66,5.69,5.72,5.57,9.7,Unknown
+Hong Kong,Asia,5.4,5.4,5.4,,,7.1,Unknown
+Estonia,Europe,5.01,5.01,4.96,4.76,4.69,14.6,Unknown
+Luxembourg,Europe,5.17,5.05,4.93,4.81,4.66,24.8,Unknown
+Switzerland,Europe,4.68,4.58,4.58,4.55,4.53,11,Unknown
+Slovenia,Europe,4.55,4.54,4.51,4.49,4.5,6.4,Unknown
+China,Asia,3.31,3.57,3.82,4.05,4.34,3.6,Unknown
+Greece,Europe,4.24,4.24,4.25,4.2,4.21,6,Unknown
+Australia,Oceania,3.74,3.79,3.82,3.84,,,Unknown
+Norway,Europe,3.86,3.84,3.76,3.68,3.6,8,Unknown
+Portugal,Europe,3.39,3.32,3.37,3.39,3.39,4.2,Unknown
+Netherlands,Europe,4.18,,3.52,3.44,3.32,6.4,Unknown
+Finland,Europe,4.87,4.53,4.35,3.97,3.28,6.1,Unknown
+Italy,Europe,3.31,3.21,3.2,3.17,3.18,12.5,Unknown
+Iceland,Europe,3.22,3.16,3.12,3.13,3.06,9.1,Unknown
+Israel,Asia,3.09,3.08,3.03,2.99,3.02,,Unknown
+Spain,Europe,2.96,2.97,2.98,2.97,2.97,9.7,Unknown
+Ireland,Europe,2.56,2.57,2.92,2.97,2.96,6.5,Unknown
+Turkey,Europe,2.65,2.68,2.68,2.75,2.81,46,Unknown
+US,North America,2.89,2.83,2.8,2.77,,34.7,177000
+New Zealand,Oceania,2.78,2.75,2.71,2.73,2.71,,Unknown
+Denmark,Europe,3.07,2.69,2.53,2.6,2.61,6.7,Unknown
+UK,Europe,2.76,2.73,2.61,2.57,2.54,6.6,Unknown
+Canada,North America,2.71,2.67,2.61,2.58,2.52,13.5,Unknown
+Sweden,Europe,2.59,2.54,2.44,2.34,2.22,5.8,Unknown
+Chile,South America,2.16,2.11,2.14,2.12,2.11,,Unknown
+Colombia,South America,1.54,1.59,1.61,1.68,1.7,,Unknown
+Mexico,North America,1.44,1.43,1.39,1.39,1.38,1.2,Unknown
